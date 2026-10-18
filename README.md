@@ -180,6 +180,7 @@ DIVIDE(
 
 Format both percentage measures as **Percentage** in Power BI.
 
+
 > **Note:** Each student has one row per subject, so attendance events are counted once per subject (200 rows for 100 students). If you need attendance counted once per student per day, calculate it from a separate attendance table.
 
 ## 🎯 Project Goals
